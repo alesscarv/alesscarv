@@ -14,14 +14,16 @@
 # E-BOOK: 21 Dias de Oração ;)
 
 ## 📒 Descrição
-Aqui está a estrutura de um e-book com 21 orações, uma para ser lida a cada dia. Essas orações têm o objetivo de
-trazer reflexão, paz e força durante o mês.
+Aqui está a estrutura de um e-book com 21 orações, uma para ser
+lida a cada dia. Essas orações têm o objetivo de trazer reflexão,
+paz e força durante o mês.
 
 ## 🤖 Tecnologias Utilizadas
 Canva, ChatGPT e PowerPoint
 
 ## 🧐 Processo de Criação
-Prompt: Crie 21 orações e estruture-as na forma de um e-book, no qual cada oração deverá ser lida a cada dia.
+Prompt: Crie 21 orações e estruture-as na forma de um e-book, no qual
+cada oração deverá ser lida a cada dia.
 
 ## 🚀 Resultados 
 
